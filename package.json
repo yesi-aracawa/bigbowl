@@ -1,0 +1,24 @@
+{
+  "name": "bigbowl",
+  "version": "1.0.0",
+  "description": "bigbowl restaurant",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesi-aracawa/bigbowl.git"
+  },
+  "author": "yesi servi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesi-aracawa/bigbowl/issues"
+  },
+  "homepage": "https://github.com/yesi-aracawa/bigbowl#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
